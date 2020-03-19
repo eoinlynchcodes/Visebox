@@ -1,0 +1,16 @@
+@-webkit-keyframes showSlowlyElement {
+  100% {
+    transform: scale(1);
+    opacity: 1; }
+  0% {
+    transform: scale(1.2);
+    opacity: 0; } }
+@keyframes showSlowlyElement {
+  100% {
+    transform: scale(1);
+    opacity: 1; }
+  0% {
+    transform: scale(1.2);
+    opacity: 0; } }
+
+/*# sourceMappingURL=animations.css.map */
